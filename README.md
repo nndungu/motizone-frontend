@@ -1,4 +1,4 @@
-# CarHub Frontend
+# Motizone Frontend
 
 A modern car rental and sales platform built with React and Tailwind CSS.
 
